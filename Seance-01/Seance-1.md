@@ -179,7 +179,7 @@ Un terrain est caractérisé par son degré de dureté, son degré de perméabil
 
 - Les roches sédimentaires sont plus ou moins tendres.
 
-![Image de l'échelle simplifiée de la résistance des roches selon Georges Viers (1990, p. 146)](../Ressources/Viers-1990-p146-Echelle-simplifiee-de-la-resistance-des-roches.png "Échelle simplifiée de la résistance des roches selon Georges Viers (1910-1998) (1990, p. 146)")
+![Image de l'échelle simplifiée de la résistance des roches selon Georges Viers (1910-1998) (Viers, 1990, p. 146)](../Ressources/Viers-1990-p146-Echelle-simplifiee-de-la-resistance-des-roches.png "Échelle simplifiée de la résistance des roches selon Georges Viers (1910-1998) (Viers, 1990, p. 146)")
 
 ##### Classement des roches en fonction de leur degré de perméabilité
 
