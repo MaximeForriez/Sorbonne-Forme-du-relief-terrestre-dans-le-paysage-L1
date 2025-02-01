@@ -1,4 +1,4 @@
-# Cours sur les formes du relief terrestre dans le paysage - Sorbonne Université - L1/S2 - GEREPA (2024-2025)
+# Travaux dirigés sur les formes du relief terrestre dans le paysage - Sorbonne Université - L1/S2 - GEREPA (2024-2025)
 
 Ce dépôt va progressivement contenir toutes les ressources des séances.
 
