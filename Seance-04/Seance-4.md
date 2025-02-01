@@ -34,38 +34,50 @@ Les cartes géologiques sont conçues par le [Bureau de Recherches Géologiques 
 ## Symbole des cartes géologiques
 
 - Ère primaire
-    - S : Silurien
+	- k : Cambrien
+	- o : Ordovicien
+    - s : Silurien
     - d : Dévonien
     - h : Carbonifère
     - r : Permien
 - Ère secondaire
     - t : Trias
     - l : Lias (Jurassique inférieur)
-    - J : Jurassique (moyen et supérieur)
-    - C : Crétacé
+    - j : Jurassique (moyen et supérieur)
+    - c ou n : Crétacé
 - Ère tertiaire
+	- g : Paléogène
     - e : Éocène et Oligocène inférieur
     - m : Oligocène supérieur et Miocène
-    - p ou P : Pliocène
+    - p : Pliocène
+- Ère quaternaire
+	- q1-3 : Pléistocène
+	- q4 : Holocène
 
 Les types de roche :
-	- $\gamma$ pour les granites (roches plutonites)
-	- $\gamma\alpha$ pour les syrénites (roches plutonites)
-	- $\beta$ pour les diorites (roches plutonites)
-	- $\gamma$ pour les gabbros (roches plutonites)
-	- $\sigma$ pour les rhyosites (roches vulcanites récentes)
-	- $\upsilon$ pour les trachytes (roches vulcanites récentes)
-	- $\alpha$ pour les andésites (roches vulcanites récentes)
-	- $\delta$ pour les basaltes (roches vulcanites récentes)
-	- $\lambda$ pour les labradonites (roches vulcanites récentes)
-	- $\pi$ pour les porphyres (roches vulcanites anciennes)
-	- $\mu$ pour les orthophyres (roches vulcanites anciennes)
-	- $\mu$ pour les porphyrites (roches vulcanites anciennes)
-	- $\theta$ pour les mélaphyres (roches vulcanites anciennes)
-	- *Q* pour les quartz
-	- *etc*.
-## Les coupes stratigraphiques
+
+- $\gamma$ pour les granites (roches plutonites)
+- $\gamma\alpha$ pour les syrénites (roches plutonites)
+- $\beta$ pour les diorites (roches plutonites)
+- $\gamma$ pour les gabbros (roches plutonites)
+- $\sigma$ pour les rhyosites (roches vulcanites récentes)
+- $\upsilon$ pour les trachytes (roches vulcanites récentes)
+- $\alpha$ pour les andésites (roches vulcanites récentes)
+- $\delta$ pour les basaltes (roches vulcanites récentes)
+- $\lambda$ pour les labradonites (roches vulcanites récentes)
+- $\pi$ pour les porphyres (roches vulcanites anciennes)
+- $\mu$ pour les orthophyres (roches vulcanites anciennes)
+- $\mu$ pour les porphyrites (roches vulcanites anciennes)
+- $\theta$ pour les mélaphyres (roches vulcanites anciennes)
+- *Q* pour les quartz
+- *etc*.
 
 ## Les coupes géologiques
+
+[Lecture d'une carte géologique du B.R.G.M.](https://assistance.brgm.fr/sites/default/files/documents/guide_de_lecture_de_la_carte_geologique_a_1_50_000.pdf)
+
+[Méthodologie pour réaliser une coupe géologique](https://acces.ens-lyon.fr/acces/thematiques/limites/ecoles/parcours/chartreuse/licence-de-sciences-de-la-terre-1/deroulement-materiel/coupe-geologique)
+
+![Image des figurés d'une coupe géologique](./Coupe-geologique/Figures-d-une-coupe-geologique.jpg "Figurés d'une coupe géologique (E.N.S. de Lyon)")
 
 ## Les cartes géomorphologiques
