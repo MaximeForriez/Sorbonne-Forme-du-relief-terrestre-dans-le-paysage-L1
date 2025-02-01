@@ -56,7 +56,7 @@ Les cartes géologiques sont conçues par le [Bureau de Recherches Géologiques 
 
 Les cartes géologiques détaillent [chaque série (supérieure, moyenne, inférieure) et chaque étape](https://assistance.brgm.fr/sites/default/files/documents/guide_de_lecture_de_la_carte_geologique_a_1_50_000.pdf) (p. 12).
 
-> [!NOTICE]
+> [!NOTE]
 > Il vous sera autorisé d'utiliser la page 12 citée, et uniquement cette page, lors de l'examen.
 
 Les types de roche :
