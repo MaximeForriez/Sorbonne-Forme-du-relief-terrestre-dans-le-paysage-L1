@@ -18,64 +18,60 @@ Les roches d'origine interne (ou endogènes ou ignites)
 - Les roches plutonites (ou intrusives)
     - Le granite $\gamma$
 
-    [Image d'un granite](./Roches-magmatiques/granite-igneous-rock-dirk-wiersma.jpg "Le granite")
+    ![Image d'un granite](./Roches-magmatiques/granite-igneous-rock-dirk-wiersma.jpg "Le granite")
 
     - La syénite $\gamma\alpha$
 
-    [Image d'une syénite](https://commons.wikimedia.org/wiki/File:Syenite.jpg?uselang=fr "La syénite")
+    ![Image d'une syénite](./Roches-magmatiques/Wikipedia-Syenite.jpg "La syénite")
 
     - La diorite $\theta$
 
-    [Image d'une diorite](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Diorite2.tif/lossy-page1-1280px-Diorite2.tif.jpg "La diorite")
+    ![Image d'une diorite](./Roches-magmatiques/Wikipedia-Diorite.jpg "La diorite")
 
     - Le gabbro $\mu$
 
-    [Image d'un gabbro](https://commons.wikimedia.org/wiki/File:Gabro_3.jpg?uselang=fr "Le gabbro")
+    ![Image d'un gabbro](./Roches-magmatiques/Wikipedia-Gabro.jpg "Le gabbro")
 
 - Les roches vulcanites (ou volcaniques)
-    - Récentes :
+    - Récentes datant de l'ère tertiaire :
         - La rhyolite $\pi$ (rhyolithe)
 
-        [Image d'une rhyolite](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Quarzporphyr.jpg/800px-Quarzporphyr.jpg "La rhyolite")
+        ![Image d'une rhyolite](./Roches-magmatiques/Wikipedia-Rhyolite.jpg "La rhyolite")
 
         - Le trachyte $\upsilon$
 
-        [Image d'un trachyte](https://upload.wikimedia.org/wikipedia/commons/7/7f/Mineraly.sk_-_trachyt.jpg "Le trachyte")
+        ![Image d'un trachyte](./Roches-magmatiques/Wikipedia-Trachyte-1.jpg "Le trachyte")
 
-        [Image d'un trachyte](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Trachyte_puy_lacroix_puy_de_dome.jpg/800px-Trachyte_puy_lacroix_puy_de_dome.jpg "Le trachyte")
+        ![Image d'un trachyte](./Roches-magmatiques/Wikipedia-Trachyte-2.jpg "Le trachyte")
 
         - L'andésite $\alpha$
 
-        [Image d'une andésite](https://upload.wikimedia.org/wikipedia/commons/1/1f/Amygdaloidal_andesite.jpg "L'andésite")
+        ![Image d'une andésite](./Roches-magmatiques/Wikipedia-Andesite.jpg "L'andésite")
 
         - Le basalte $\beta$
 
-        [Image d'un basalte](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Basalte_bulleux_saint_thibery_herault.jpg/800px-Basalte_bulleux_saint_thibery_herault.jpg "Le basalte")
+        ![Image d'un basalte](./Roches-magmatiques/Wikipedia-Basalte.jpg "Le basalte")
 
         - La labradorite $\lambda$
 
-        [Image d'une labradorite](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/LabradoriteOslo.jpg/800px-LabradoriteOslo.jpg "La labradorite")
+        ![Image d'une labradorite](./Roches-magmatiques/Wikipedia-Labradorite.jpg "La labradorite")
 
-    - Anciennes (ou paléovolcanique) :
+    - Anciennes (ou paléovolcanique) datant de l'ère primaire :
         - Le porphyre $\pi$
 
-        [Image d'un porphyre](data:image/jpeg;base64,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 "Le porphyre")
+        ![Image d'un porphyre](./Roches-magmatiques/Porphyre.jpg "Le porphyre")
 
         - L'orthophyre $\mu$
 
-        [Image d'un orthophyre](http://www.geol-alp.com/0_geol_gene/__Roches_crist_volc_photos/020626_orthoph_PieFroi_6.jpg "L'orthophyre")
+        ![Image d'un orthophyre](./Roches-magmatiques/Orthophyres.jpg "L'orthophyre")
 
         - La porphyrite $\mu$
 
-        [Image d'une porphyrite](https://thumbs.dreamstime.com/z/minerai-de-porphyrite-sur-le-fond-blanc-127980200.jpg?ct=jpeg "La porphyrite")
+        ![Image d'une porphyrite](./Roches-magmatiques/Orthophyres.jpg "La porphyrite")
 
         - La mélaphyre $\theta$
 
-        [Image d'une mélaphyre](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Lom_Bezd%C4%9B%C4%8D%C3%ADn_2019_%287%29.jpg/800px-Lom_Bezd%C4%9B%C4%8D%C3%ADn_2019_%287%29.jpg "La mélaphyre")
-
-
-
-
+        ![Image d'une mélaphyre](./Roches-magmatiques/Wikipedia-Melaphyre.jpg "La mélaphyre")
 
 
 
