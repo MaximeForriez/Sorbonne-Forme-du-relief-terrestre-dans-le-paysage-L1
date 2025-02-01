@@ -12,6 +12,7 @@ Ce dépôt va progressivement contenir toutes les ressources des séances.
 	- Calculer les pentes
 - Savoir lire une carte géologique
 	- Effectuer une coupe géologique
+	- Savoir lire le pendage d'une couche
 
 ## Bibliographie
 

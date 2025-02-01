@@ -81,6 +81,8 @@ Les types de roche :
 
 [Lecture d'une carte géologique du B.R.G.M.](https://assistance.brgm.fr/sites/default/files/documents/guide_de_lecture_de_la_carte_geologique_a_1_50_000.pdf)
 
+[Lire le pendage d'une couche géologique sur une carte](https://www.youtube.com/watch?v=9pUgAbqf48M)
+
 [Méthodologie pour réaliser une coupe géologique](https://acces.ens-lyon.fr/acces/thematiques/limites/ecoles/parcours/chartreuse/licence-de-sciences-de-la-terre-1/deroulement-materiel/coupe-geologique)
 
 ![Image des figurés d'une coupe géologique](./Coupe-geologique/Figures-d-une-coupe-geologique.jpg "Figurés d'une coupe géologique (E.N.S. de Lyon)")
