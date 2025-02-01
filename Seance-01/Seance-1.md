@@ -18,7 +18,7 @@ Les roches d'origine interne (ou endogènes ou ignites)
 - Les roches plutonites (ou intrusives)
     - Le granite $\gamma$
 
-    [Image d'un granite](https://i0.wp.com/geologyscience.com/wp-content/uploads/2018/04/granite-igneous-rock-dirk-wiersma.jpg "Le granite")
+    [Image d'un granite](./Roches-magmatiques/granite-igneous-rock-dirk-wiersma.jpg "Le granite")
 
     - La syénite $\gamma\alpha$
 
