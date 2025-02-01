@@ -30,25 +30,19 @@ Ce dépôt va progressivement contenir toutes les ressources des séances.
 - Derruau, M. (1988). Précis de géomorphologie. Masson, Paris. réédition de 1956.
 - Derruau, M. (2001). Les formes du relief terrestre. Notions de géomorphologie. U. Armand Colin, Paris. réédition de 1969.
 - Derruau, M. (2007). Les formes du relief terrestre. Notions de géomorphologie. U. Armand Colin, Paris. réédition de 1969.
-- Étongué Mayer, R. (2003). Géomorphologie. Principes,
-méthodes et pratique. Guérin, Montréal.
-- Miossec, A. (1998). Les littoraux entre nature et aménagement. Campus.
-Armand Colin, Paris.
+- Étongué Mayer, R. (2003). Géomorphologie. Principes, méthodes et pratique. Guérin, Montréal.
+- Miossec, A. (1998). Les littoraux entre nature et aménagement. Campus. Armand Colin, Paris.
 - Paskoff, R. (2006). Les littoraux. Impacts des aménagements sur leur évolution. U. Armand Colin, Paris.
 - Raybaud, C. (2003). Cours de randonnée et de cartographie. Vecchi, Paris. réédition de 2000.
-- Reynaud, A. (1971). Épistémologie de la géomorphologie. Premier
-cycle géographie. Masson, Paris.
+- Reynaud, A. (1971). Épistémologie de la géomorphologie. Premier cycle géographie. Masson, Paris.
 - Saur, F. (2012). Géographie physique. Licence. P.U.F., Paris.
 - Tiffou, J. (2000). Commenter la carte topographique aux examens et concours. U. Armand Colin, Paris.
 - Touchart, L. (2003). Hydrologie. Mers, fleuves et lacs. Campus. Armand Colin, Paris.
 - Tricart, J. (1962). L’épiderme de la terre. Esquisse d’une géomorphologie appliquée. Évolution des sciences. Masson, Paris.
 - Tricart, J., Rochefort, M. et Rimbert, S. (1972). Initiation aux travaux pratiques en géographie. Commentaires de cartes. S.É.D.È.S., Paris.
-- Veyret, Y. (2000). La France. Milieux physiques et environnement.
-Cursus géographie. Armand Colin, Paris.
-- Veyret, Y. et Pech, P. (1983). L’Homme et l’environnement.
-P.U.F., Paris.
-- Veyret, Y. et Pech, P. (1993). L’homme et l’environnement.
-P.U.F., Paris.
+- Veyret, Y. (2000). La France. Milieux physiques et environnement. Cursus géographie. Armand Colin, Paris.
+- Veyret, Y. et Pech, P. (1983). L’Homme et l’environnement. P.U.F., Paris.
+- Veyret, Y. et Pech, P. (1993). L’homme et l’environnement. P.U.F., Paris.
 - Viers, G. (1990). Éléments de géomorphologie. Nathan, Paris.
 
 ## Plan des travaux dirigés
