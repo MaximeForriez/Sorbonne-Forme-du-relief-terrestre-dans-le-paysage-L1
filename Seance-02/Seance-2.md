@@ -3,13 +3,9 @@
 ## L'orogenèse (Rappels)
 
 - Les auteurs principaux :
-
     - Alfred Lothar Wegener (1880-1930)
-
     - Harry Hammond Hess (1906-1969)
-
 - La théorie de la dérive des continents
-
 - La théorie de la tectonique des plaques
 
 ## L'érosion des reliefs (Rappels)
@@ -100,6 +96,8 @@ L'ère quaternaire est marquée par une alternance entre des périodes froides (
 Lors des phases de glaciation du pléistocène, l'océan se contracte. Environ 74 millions de km<sup>3</sup> d'eau ont été emprisonnés de 80 millions de km<sup>3</sup> de glace au niveau d'un immense inlandsis. En phase de glaciation, le niveau des océans baisse. En l'occurrence, dans le cas présent, le niveau était de 120 m en deçà du niveau actuel. Pendant le pléistocène, les derniers mouvements tectoniques sont intervenus ; c'est ce que l'on appelle la néotectonique. Le terme ne doit pas être confondu avec la tectonique active qui correspond aux déformations de l'écorce terrestre avant jusque 10 000 ans B.P., c'est-à-dire celles de l'Holocène. L'Holocène est une phase interglaciaire ; la planète se réchauffe. C'est également une phase de sédimentation. Elle est caractérisée par une nouvelle forme d'érosion : l'érosion anthropique.
 
 > [!NOTICE] Depuis quelques années, on souhaite ajouter l'ère de l'anthropocène. C'est une notion que ce cours n'utilisera pas.
+
+La description des temps géologiques est dans le [*Guide du B.R.G.M.*](../Ressources/BRGM-Guide-de-lecture-de-la-carte-geologique-a-1-50-000.pdf) (p. 12).
 
 # Les grands ensembles structuraux
 
