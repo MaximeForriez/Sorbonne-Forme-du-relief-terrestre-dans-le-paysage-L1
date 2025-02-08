@@ -99,10 +99,14 @@ Une **toponyme** correspond à un lieu remarquable sur une carte. Il peut servir
 
 ![Légende des cartes topographiques 1](./Cartes-topographiques/Raybaud-2003-Legende-1-p8.jpg)
 
-![Légende des cartes topographiques 2](./Cartes-topographiques/Raybaud-2003-Legende-1-p9.jpg)
+![Légende des cartes topographiques 2](./Cartes-topographiques/Raybaud-2003-Legende-2-p9.jpg)
+
+**Source :** Raybaud, 2003, p. 8-9
 
 ![Légende des cartes topographiques 3](./Cartes-topographiques/Tiffou-2000-p16-Liste-des-abreviations-usuelles-utilisees-par-l-IGN.jpg)
 
 ![Légende des cartes topographiques 4](./Cartes-topographiques/Tiffou-2000-p17-18-Liste-des-abreviations-usuelles-utilisees-par-l-IGN.jpg)
+
+**Source :** Tiffou, 2000, p. 16-18
 
 ## Commenter une carte topographique
