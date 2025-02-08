@@ -107,6 +107,14 @@ La description des temps géologiques est dans le [*Guide du B.R.G.M.*](../Resso
 
 - Système plissé alpin
 
+Il faut retenir que la Terre a connu quatre grands cycles orogéniques.
+1. Phase cadomienne (3,8 milliards - 570 millions d'années B.P.)
+2. Phase calédonienne (570 millions - 395 millions d'années B.P.)
+3. Phase hercynienne (395 millions - 230 millions d'années B.P.)
+4. Phase alpine (230 millions - 2 millions d'années B.P.) (cf. Système plissé alpin)
+
+![Cycles orogeniques connus](./Orogenese/Cycles-orogeniques-connus.png)
+
 # Les plis, les failles et les fractures
 
 ## Les plis

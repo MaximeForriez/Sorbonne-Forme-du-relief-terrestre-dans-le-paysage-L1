@@ -85,6 +85,8 @@ Les types de roche :
 - *Q* pour les quartz
 - *etc*.
 
+![Pendage et affleurement](./Carte-geologique/Pendage-et-affleurement.png)
+
 ## Les coupes géologiques
 
 [Lecture d'une carte géologique du B.R.G.M.](https://assistance.brgm.fr/sites/default/files/documents/guide_de_lecture_de_la_carte_geologique_a_1_50_000.pdf)
