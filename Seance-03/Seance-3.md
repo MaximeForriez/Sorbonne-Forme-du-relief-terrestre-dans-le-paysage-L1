@@ -110,3 +110,31 @@ Une **toponyme** correspond à un lieu remarquable sur une carte. Il peut servir
 **Source :** Tiffou, 2000, p. 16-18
 
 ## Commenter une carte topographique
+
+Ce que **n'est pas** un commentaire : un simple recensement de formes géographiques.
+
+Un commentaire de carte topographique est une synthèse des informations qu'elles portent. Pour ce, il faut :
+- identifier les formes principales présentes sur la carte en recherchant les lignes directrices de la carte (reliefs, cours d'eau, voies de communication, *etc*.) ;
+- identifier les thématiques liées à ces formes ;
+- trier, classer et hiérarchiser les informations portées par ces formes pour définir de **grands ensembles géographiques**.
+
+Les positions et les formes identifiées constituent la matière de la géomorphologie. À partir d'eux, il faut comprendre en les ordonnant les différentes combinaisons, héritées ou actuelles, entre les composantes d'origine naturelle et les composantes d'origine anthropique. Il faut :
+- comprendre l'inscription spatiale de la distribution en fonction des orientations cardinales et des altitudes. Est-elle homogène ou hétérogène ? Est-elle organisée ou non ? Est-elle continue ou discontinue ? Est-elle symétrique ou dissymétrique ?
+- évaluer, mesurer, caractériser les morphologies observées ;
+- comprendre l'organisation de ces morphologies (caractéristiques majeures des éléments identifiés).
+
+Les formes identifiées, il faut problématiser les thématiques de la carte dans le cadre d'un **plan cohérent**.
+
+Le plan ne doit être **ni énumératif**, **ni une simple juxtaposition**, c'est-à-dire énumérer les formes géographiques sans les classer, **ni un prétexte à une dissertation**.
+
+L'introduction est organisée par trois points :
+1. la localisation et la description dans les grandes lignes de l'espace cartographié ;
+2. la problématique permettant de donner un sens au document ;
+3. l'annonce du plan répondant à cette problématique.
+
+Pour savoir si le commentaire est réussi, chaque partie et sous-partie du plan doit contenir des éléments cartographiables sur un croquis de synthèse qui peut être demandé.
+- Le croquis a un titre.
+- Le croquis a ue orientation et une échelle.
+- Le croquis a une légende qui suit le plan du commentaire.
+
+Pour prouver les éléments morphologiques, quelques coupes topographiques doivent accompagner le texte et le croquis.
