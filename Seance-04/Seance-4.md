@@ -97,4 +97,8 @@ Les types de roche :
 
 ![Image des figurés d'une coupe géologique](./Coupe-geologique/Figures-d-une-coupe-geologique.jpg "Figurés d'une coupe géologique (E.N.S. de Lyon)")
 
+## Les roches
+
+![Image des figurés d'une coupe géologique](./Coupe-geologique/Identification-des-roches-avec-photo.jpg)
+
 ## Les cartes géomorphologiques
