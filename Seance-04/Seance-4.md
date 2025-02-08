@@ -11,18 +11,26 @@ Les cartes géologiques sont conçues par le [Bureau de Recherches Géologiques 
 - [Lire une carte géologique](https://www.youtube.com/watch?v=PeoNeMFG37k&list=PLjepoOw2WVmh18Iv6bLIhYDUuqxojZIxS&index=7)
 
 - [Lire une carte géologique](https://www.youtube.com/watch?v=EirOMRg_uNs&list=PLjepoOw2WVmh18Iv6bLIhYDUuqxojZIxS&index=12)
-	
+
+- [Lire une carte géologique](../Ressources/BRGM-Guide-de-lecture-de-la-carte-geologique-a-1-50-000.pdf) (pdf)
+
 - [Construire une carte géologique](https://www.youtube.com/watch?v=OOI_A3BNQZk)
 
 - [Construire une carte géologique](https://www.youtube.com/watch?v=8vcsZZnq9F0&list=PLAGFiOoRe1nMXDnTyisYRgUhljUQ5y0F5)
 
 - [Mesurer un pendage sur le terrain](https://www.youtube.com/watch?v=6t6Px-urMI0)
 
+- [Lire un pendage sur une carte géologique](https://www.youtube.com/watch?v=jUoxEQPul7Q)
+
+- [Lire un pendage sur une carte géologique](https://www.youtube.com/watch?v=-MvyamY1iT8)
+
 - [Réaliser une coupe géologique](https://www.youtube.com/watch?v=-MvyamY1iT8&list=PLjepoOw2WVmh18Iv6bLIhYDUuqxojZIxS&index=2)
 
 - [Réaliser une coupe géologique](https://www.youtube.com/watch?v=QgzVB2_dkcM&list=PLjepoOw2WVmh18Iv6bLIhYDUuqxojZIxS&index=8)
 
 - [Réaliser une coupe géologique](https://www.youtube.com/watch?v=iEtdPrqJbAQ)
+
+- [Réaliser une coupe géologique](https://www.uca.ma/public/files/docs/site-164-7931e9d80e0b1a0dd62ea11a6ed22e5d-953882752.pdf) (pdf)
 
 ### Cartes géologiques en ligne
 

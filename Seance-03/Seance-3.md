@@ -36,7 +36,6 @@ Une **ligne de crête** (ou ligne de partage des eaux) délimite un bassin versa
 
 Une **toponyme** correspond à un lieu remarquable sur une carte. Il peut servir de repère lors de la conception d'une coupe topographique. Parmi les toponymes les plus utilisés, il y a les noms des cours d'eau.
 
-
 ## Faire des coupes topographiques
 
 ## Délimiter un bassin versant
@@ -97,5 +96,13 @@ Une **toponyme** correspond à un lieu remarquable sur une carte. Il peut servir
 **Versant** : pente dominant le talweg d'une vallée
 
 ## Lire des cartes topographiques
+
+![Légende des cartes topographiques 1](./Cartes-topographiques/Raybaud-2003-Legende-1-p8.jpg)
+
+![Légende des cartes topographiques 2](./Cartes-topographiques/Raybaud-2003-Legende-1-p9.jpg)
+
+![Légende des cartes topographiques 3](./Cartes-topographiques/Tiffou-2000-p16-Liste-des-abreviations-usuelles-utilisees-par-l-IGN.jpg)
+
+![Légende des cartes topographiques 4](./Cartes-topographiques/Tiffou-2000-p17-18-Liste-des-abreviations-usuelles-utilisees-par-l-IGN.jpg)
 
 ## Commenter une carte topographique
