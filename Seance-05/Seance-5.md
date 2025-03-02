@@ -12,4 +12,8 @@
 
 ## Cuestas
 
+Carte géologique simplifiée de Vigneulles-lès-Hattonchâtel (Meuse, 55)
+
 ## Boutonnière
+
+Carte géologique simplifiée de Neuf-Marché (Seine-Maritime, 76)
