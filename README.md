@@ -24,14 +24,15 @@ Ce dépôt va progressivement contenir toutes les ressources des séances.
 - Debelmas, Jacques & Mascle, Georges, 2004, *Les grandes structures géologiques*, Paris, Dunod, VIII-312 p.
 - Delcaillau, Bernard, 2004, *Reliefs et tectonique récente*, Paris, Vuibet, VIII-260 p.
 - Derruau, Max, 1988, *Précis de géomorphologie*, Paris, Masson, 534 p. [réédition de 1956]
-Derruau, Max, 2001, *Les formes du relief terrestre. Notions de géomorphologie*, Paris, Armand Colin, 120 p. [U] [réédition de 1969]
-Derruau, Max, 2007, *Les formes du relief terrestre. Notions de géomorphologie*, Paris, Armand Colin, 120 p. [U] [réédition de 1969]
+- Derruau, Max, 2001, *Les formes du relief terrestre. Notions de géomorphologie*, Paris, Armand Colin, 120 p. [U] [réédition de 1969]
+- Derruau, Max, 2007, *Les formes du relief terrestre. Notions de géomorphologie*, Paris, Armand Colin, 120 p. [U] [réédition de 1969]
 - Étongué-Mayer, Raoul, 2003, *Géomorphologie. Principes, méthodes et pratique*, Montréal, Guérin, XIV-496 p.
 - Miossec, Alain, 1998, *Les littoraux entre nature et aménagement*, Paris, Armand Colin, 192 p. [Campus]
 - Paskoff, Roland, 2006, *Les littoraux. Impacts des aménagements sur leur évolution*, Paris, Armand Colin, 260 p. [U]
 - Raybaud, Claude, 2003, *Cours de randonnée et de cartographie*, Paris, Vecchi, 192 p. [réédition de 2000]
 - Reynaud, Alain, 1971, *Épistémologie de la géomorphologie*, Paris, Masson, 126 p. [Premier cycle géographie]
 - Saur, François, 2012, *Géographie physique*, Paris, P.U.F., 296 p. [Licence]
+- Sorel, Denis & Vergély, Pierre, 2018, *Atlas d'initiation aux cartes et coupes géologiques*, Paris, B.R.G.M. éditions, 128 p. [Sciences sup] [4<sup>e</sup> édition]
 - Tiffou, Jacky, 2000, *Commenter la carte topographique aux examens et concours*, Paris, Armand Colin, 1-188 p. [U]
 - Touchart, Laurent, 2003, *Hydrologie. Mers, fleuves et lacs*, Paris, Armand Colin, 192 p. [Campus]
 - Tricart, Jean, 1962, *L’épiderme de la terre. Esquisse d’une géomorphologie appliquée*, Paris, Masson, 160 p. [Évolution des sciences]
