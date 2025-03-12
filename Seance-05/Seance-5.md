@@ -24,6 +24,8 @@ Carte géologique simplifiée de Vigneulles-lès-Hattonchâtel (Meuse, 55)
     - Déduire la structure. Ici, une cuesta.
     - Analyser le réseau hydrographique. Quel cours d'eau est cataclinal ? orthoclinal ? anaclinal ?
 
+![Coupes topographique et géologique de Vignuelles-lès-Hattonchâtel](./TD-5-Vigneulles-les-Hattonchatel-Solution-v2.jpg)
+
 ## Boutonnière
 
 Carte géologique simplifiée de Neuf-Marché (Seine-Maritime, 76)
