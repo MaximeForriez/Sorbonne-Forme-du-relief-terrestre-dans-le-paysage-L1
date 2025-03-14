@@ -58,6 +58,12 @@ Ce dépôt va progressivement contenir toutes les ressources des séances.
 
 ### Séance 7 - Partiel 1 [18/03/2025]
 
+- [Règlement de l'examen](./Seance-07/Forriez-Bareme.pdf)
+
+- Correction de la coupe topographique et géologique du groupe 4
+
+- Correction de la coupe topographique et géologique du groupe 5
+
 ### Séance 8 - [Structures faillées et plissées : le Jura](./Seance-08/Seance-8.md) [25/03/2025]
 
 ### Séance 9 - [Structures plissées : les Préalpes](./Seance-09/Seance-9.md) [01/04/2025]
