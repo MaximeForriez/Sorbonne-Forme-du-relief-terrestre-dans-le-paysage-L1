@@ -64,14 +64,14 @@ Ce dépôt va progressivement contenir toutes les ressources des séances.
 
 - Correction de la coupe topographique et géologique du groupe 5
 
-### Séance 8 - [Structures faillées et plissées : le Jura](./Seance-08/Seance-8.md) [25/03/2025]
+### Séance 8 - Correction du partiel 1 et proposition d'un devoir-maison [25/03/2025]
 
-### Séance 9 - [Structures plissées : les Préalpes](./Seance-09/Seance-9.md) [01/04/2025]
+### Séance 9 - [Structures faillées et plissées : le Jura](./Seance-08/Seance-8.md) [01/04/2025]
 
-### Séance 10 - [Formes volcaniques](./Seance-10/Seance-10.md) [08/04/2025]
+### Séance 10 - [Structures plissées : les Préalpes](./Seance-09/Seance-9.md) [08/04/2025]
 
-### Séance 11 - [Formes karstiques](./Seance-11/Seance-11.md) [29/04/2025]
+### Séance 11 - [Les formes volcaniques](./Seance-10/Seance-10.md) et les [formes karstiques](./Seance-11/Seance-11.md) [29/04/2025]
 
 ### Séance 12 - Partiel 2 [06/05/2025]
 
-### Séance 13 - [Îles maritimes, formes littorales et reliefs sous-marins](./Seance-13/Seance-13.md) [13/05/2025]
+### Séance 13 - [Révisions pour l'examen terminal](./Seance-13/Seance-13.md) [13/05/2025]
