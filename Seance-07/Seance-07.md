@@ -6,7 +6,7 @@
 
 Présents : 36
 
-Moyenne du groupe : 05,50/20
+Moyenne du groupe : 06,02/20
 
 Note minimale : 00/20 (sans compter les absents)
 
