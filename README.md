@@ -29,6 +29,7 @@ Ce dépôt va progressivement contenir toutes les ressources des séances.
 - Étongué-Mayer, Raoul, 2003, *Géomorphologie. Principes, méthodes et pratique*, Montréal, Guérin, XIV-496 p.
 - Michel, François, 2022, *Géologie et paysages. Initiation à la géomorphologie*, Paris, Delachaux et Niestlé, 318 p.
 - Miossec, Alain, 1998, *Les littoraux entre nature et aménagement*, Paris, Armand Colin, 192 p. [Campus]
+- Nicod, Jean, 1972, *Pays et paysages du calcaire*, Paris, P.U.F., 244 p. [Collection sup n°3]
 - Paskoff, Roland, 2006, *Les littoraux. Impacts des aménagements sur leur évolution*, Paris, Armand Colin, 260 p. [U]
 - Raybaud, Claude, 2003, *Cours de randonnée et de cartographie*, Paris, Vecchi, 192 p. [réédition de 2000]
 - Reynaud, Alain, 1971, *Épistémologie de la géomorphologie*, Paris, Masson, 126 p. [Premier cycle géographie]
